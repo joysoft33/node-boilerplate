@@ -1,4 +1,4 @@
 # node-dom-rocks
-Basic node/express boilerplate
+Basic node/express/sequelize boilerplate
 
-Starting base for a basic node/express server. 
+Starting base for a basic node/express server accessing a SQL database via the sequelize ORM. 
