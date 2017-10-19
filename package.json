@@ -17,5 +17,9 @@
     "express": "^4.16.1",
     "mysql2": "^1.4.2",
     "sequelize": "^4.13.8"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.9.0"
   }
 }
